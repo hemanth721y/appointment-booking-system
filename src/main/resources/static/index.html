@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Appointment Booking System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>Appointment Booking System</h2>
+
+<div class="box">
+    <h3>Create User</h3>
+    <input id="username" placeholder="Username">
+    <input id="password" type="password" placeholder="Password">
+    <button onclick="createUser()">Create User</button>
+</div>
+
+<div class="box">
+    <h3>Create Slot</h3>
+    <input id="date" placeholder="YYYY-MM-DD">
+    <input id="time" placeholder="10:00 - 10:30">
+    <button onclick="createSlot()">Create Slot</button>
+</div>
+
+<div class="box">
+    <h3>Book Appointment</h3>
+    <input id="userId" placeholder="User ID">
+    <input id="slotId" placeholder="Slot ID">
+    <button onclick="bookAppointment()">Book Appointment</button>
+</div>
+
+<p id="result"></p>
+
+<script src="script.js"></script>
+</body>
+</html>
