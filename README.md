@@ -107,8 +107,9 @@ mvn spring-boot:run
 
 **Hemanth Arikotam**
 
-* [LinkedIn]([https://www.linkedin.com/in/arikotamhemanthkumar/])
-* [GitHub]([https://github.com/hemanth721y])
+* [LinkedIn](https://www.linkedin.com/in/arikotamhemanthkumar/)
+* [GitHub](https://github.com/hemanth721y)
+
 
 ---
 
